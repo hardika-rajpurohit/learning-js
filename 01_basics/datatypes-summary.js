@@ -26,3 +26,8 @@ const myFunction = function() {
 
 console.log(bigNumber); //undefined
 console.log(myFunction); //function
+
+// ++++++++++++++++++++++++++++++++++++++
+
+// Memory : Stack (Primitve), Heap (Non-Primitve)
+// Stack me copy milti hai, aur Heap me reference so jo bhi change karenge wo original me bhi hoga
