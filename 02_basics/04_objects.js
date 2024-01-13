@@ -75,11 +75,11 @@ console.log(instructor);
 
 // JSON
 
-{
-    "name": "hitesh"
-    "coursename": "js",
-   " price": "free",
-}
+// {
+//     "name": "hitesh"
+//     "coursename": "js",
+//    " price": "free",
+// }
 
 [
     {},
